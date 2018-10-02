@@ -1,0 +1,1 @@
+# https-github.com-RapidSoftwareSolutions-Marketplace-MicrosoftFaceAPI-package
